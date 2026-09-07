@@ -68,7 +68,7 @@ npm run dev
 ## 📁 File & Component Structure
 
 ```text
-suvo-os/
+sank-os/
 ├── app/
 │   ├── globals.css         # CRT scanlines, font imports, glitch text
 │   ├── layout.tsx          # Root layout & Metadata
@@ -101,7 +101,3 @@ suvo-os/
 ```
 
 ---
-
-## ⚙️ Editing Profile Information
-
-All portfolio content is central in [`data/content.ts`](file:///C:/Users/DELL/.gemini/antigravity-ide/scratch/suvo-os/data/content.ts). To customize for your personal portfolio, edit the `profile`, `projectsData`, `skillsData`, `experienceData`, and `pet` objects.
